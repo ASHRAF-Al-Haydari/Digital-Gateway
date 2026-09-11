@@ -1,0 +1,24 @@
+{
+  "name": "digital-gateway",
+  "version": "1.0.0",
+  "description": "this is platform for produce digital and technology services, starting from software development to impalement, maintain, and manage networks and CCTV.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASHRAF-Al-Haydari/Digital-Gateway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ASHRAF-Al-Haydari/Digital-Gateway/issues"
+  },
+  "homepage": "https://github.com/ASHRAF-Al-Haydari/Digital-Gateway#readme",
+  "devDependencies": {
+    "@types/passport-jwt": "^4.0.1"
+  }
+}

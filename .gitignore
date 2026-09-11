@@ -1,0 +1,9 @@
+#root folder
+/node_modules
+.env*
+
+
+
+
+#==============================backend/===
+
